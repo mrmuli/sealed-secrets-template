@@ -1,0 +1,6 @@
+nameOverride: ""
+fullnameOverride: ""
+
+name: __REQUIRED__
+
+sealedSecrets: {}

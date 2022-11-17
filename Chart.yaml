@@ -1,0 +1,9 @@
+apiVersion: v2
+name: sealed-secrets-template
+description: A template chart for Sealed secrets as dependencies
+type: application
+version: 0.1.0
+appVersion: "1.16.0"
+maintainers:
+  - email: jayjaymuli00@gmail.com
+    name: Joseph
